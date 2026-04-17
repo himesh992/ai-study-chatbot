@@ -106,7 +106,8 @@ streamlit run app.py
 
 ## 📷 Screenshot
 
-(Add your app screenshot here)
+<img width="1307" height="720" alt="image" src="https://github.com/user-attachments/assets/a384e5fb-bdd9-4bbe-a1c7-9e54dd3e9e74" />
+
 
 ---
 
